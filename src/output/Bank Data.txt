@@ -1,0 +1,6 @@
+The bank has been taxed 5 times
+The The current amount of money the bank holds is $272000
+
+Federal Reserve Data:
+Federal Reserve currently holds 1050000
+The Federal Reserve has %61 tax on any bank/company that has over 300k in their holding 
